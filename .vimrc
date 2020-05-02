@@ -8,7 +8,7 @@ set noequalalways
 set winheight=9999
 set guifont=courier_new:h10:cRUSSIAN 
 set iskeyword=@,48-57,_,192-255 " russian alphabet with w/b command
-set tabstop=4
+set tabstop=2
 set showcmd 
 set ruler
 set number
